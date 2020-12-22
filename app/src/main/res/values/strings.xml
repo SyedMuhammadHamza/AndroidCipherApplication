@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DifferentCiphers</string>
+    <string name="button1">Encipher</string>
+    <string name="button2">Decipher</string>
+    <string name="button3">PlayFairCipher</string>
+    <string name="text1">PlanText</string>
+    <string name="text2">CipherText</string>
+    <string name="etext1">Enter plain text</string>
+    <string name="etext2">Enter cipher text</string>
+    <string name="keyText">keyText</string>
+    <string name="ekeyText">Enter key</string>
+    <string name="shiftCipher">Shift Cipher</string>
+    <string name="vigenereCipher">Vigenère cipher</string>
+    <string name="PlayFairCipher">For PlayFairCipher click here</string>
+    <string name="MATRIX">MATRIX</string>
+
+
+
+</resources>
