@@ -6,5 +6,7 @@ An Android-based application build using the MVC model That allows users to Enci
 </p>
 
 <p>
-    <img src=“pictures/1.png” width="220" height="240" />
+    <img src=“1.png” width="220" height="240" />
 </p>
+
+
