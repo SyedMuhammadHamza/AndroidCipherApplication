@@ -7,6 +7,7 @@ An Android-based application build using the MVC model That allows users to Enci
 
 <img src="pictures/1.png" width=250 height=400 />
 
+©SyedMuhammadHamza Licensed under [MIT License](https://github.com/SyedMuhammadHamza/AndroidCipherApplication/blob/master/LICENSE)
 
 
 
